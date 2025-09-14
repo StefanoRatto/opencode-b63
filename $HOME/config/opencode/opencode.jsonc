@@ -1,0 +1,18 @@
+// opencode config for b63
+{
+  "$schema": "https://opencode.ai/config.json",
+  "agent": {
+    "b63": {
+      "description": "b63 agent",
+      "mode": "primary",
+      "prompt": "{file:./b63.md}",
+      "temperature": 0.5,
+      "tools": {
+        "*": true
+      },
+      "additionalProperties": {
+        "color": "cyan"
+      }
+    }
+  }
+}
