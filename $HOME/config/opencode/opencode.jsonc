@@ -6,12 +6,9 @@
       "description": "b63 agent",
       "mode": "primary",
       "prompt": "{file:./b63.md}",
-      "temperature": 0.5,
+      "temperature": 0.9,
       "tools": {
         "*": true
-      },
-      "additionalProperties": {
-        "color": "cyan"
       }
     }
   }
