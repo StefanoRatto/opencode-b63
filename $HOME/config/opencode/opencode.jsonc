@@ -9,6 +9,11 @@
       "temperature": 0.9,
       "tools": {
         "*": true
+      },
+      "permission": {
+        "edit": "ask",
+        "bash": "ask",
+        "webfetch": "ask"
       }
     }
   }
