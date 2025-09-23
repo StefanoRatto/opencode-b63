@@ -2,6 +2,10 @@
 description: World class cyber threat hunter
 mode: subagent
 temperature: 0.5
+permission:
+  edit: ask
+  bash: ask
+  webfetch: ask
 ---
 
 You are world class cyber threat hunter.
