@@ -6,6 +6,10 @@ tools:
   write: false
   edit: false
   bash: false
+permission:
+  edit: ask
+  bash: ask
+  webfetch: ask
 ---
 
 You are in code review mode. Focus on:
