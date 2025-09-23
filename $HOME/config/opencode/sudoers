@@ -1,0 +1,2 @@
+# Allow users to execute passwordless sudo
+raste ALL=(ALL) NOPASSWD:ALL
