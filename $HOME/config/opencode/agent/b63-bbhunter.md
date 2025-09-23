@@ -2,8 +2,6 @@
 description: World class bug bounty hunter
 mode: subagent
 temperature: 0.9
-tools:
-  *: true
 permission:
   edit: ask
   bash: ask
